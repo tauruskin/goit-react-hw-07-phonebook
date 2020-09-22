@@ -13,7 +13,7 @@ import {
 
 axios.defaults.baseURL = 'http://localhost:2000';
 
-export const getCOntacts = () => async dispatch => {
+export const getContacts = () => async dispatch => {
   dispatch(getContactsRequest());
   try {
     const result = await axios.get('/contacts');
