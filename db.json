@@ -1,3 +1,24 @@
 {
-  "contacts": []
+  "contacts": [
+    {
+      "name": "Jack Daniels",
+      "number": "123-44-55",
+      "id": 1
+    },
+    {
+      "name": "Captain Morgan",
+      "number": "777-99-97",
+      "id": 2
+    },
+    {
+      "name": "Grey Goose",
+      "number": "900-88-17",
+      "id": 3
+    },
+    {
+      "name": "Fire Ball",
+      "number": "321-90-64",
+      "id": 4
+    }
+  ]
 }
